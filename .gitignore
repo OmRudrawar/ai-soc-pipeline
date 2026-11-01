@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+*internal_users.yml
+*password*
+*credentials*
+*workflow*.json
+!workflow.example.json
+wazuh-docker/single-node/config/wazuh_indexer_ssl_certs/
+wazuh-docker/single-node/logs/
+*.log
+.DS_Store
+.vscode/
