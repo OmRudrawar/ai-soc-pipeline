@@ -595,4 +595,3 @@ Most of the build time went into infrastructure, not workflow design.
 ## License
 
 Choose a license before publishing (MIT is common for lab projects) and add a `LICENSE` file.
-# ai-soc-pipeline
